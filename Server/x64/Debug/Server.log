@@ -1,0 +1,8 @@
+﻿  Server.cpp
+C:\Users\laiva\source\repos\LTM0905\Server\Server.cpp(24,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\laiva\source\repos\LTM0905\Server\Server.cpp(56,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\laiva\source\repos\LTM0905\Server\Server.cpp(56,10): message : consider using '%lld' in the format string
+C:\Users\laiva\source\repos\LTM0905\Server\Server.cpp(56,10): message : consider using '%Id' in the format string
+C:\Users\laiva\source\repos\LTM0905\Server\Server.cpp(56,10): message : consider using '%I64d' in the format string
+C:\Users\laiva\source\repos\LTM0905\Server\Server.cpp(36): warning C4715: 'ClientThread': not all control paths return a value
+  Server.vcxproj -> C:\Users\laiva\source\repos\LTM0905\x64\Debug\Server.exe
